@@ -1,4 +1,4 @@
-# Sleep — Blue Team / Detection Engineering
+# Sleep — Purple Teaming / Detection Engineering
 
 **Information Management & Technology @ Syracuse University** (B.S. '29, Information Security and Cloud Computing concentration)
 Technology Officer,InfoSec Club · CTF player with **v1olet**
