@@ -1,1 +1,20 @@
-# Sleep
+# Sleep — Blue Team / Detection Engineering
+
+**Information Management & Technology @ Syracuse University** (B.S. '29, Information Security and Cloud Computing concentration)
+Technology Officer,InfoSec Club · CTF player with **v1olet**
+
+---
+
+### Focus areas
+
+| Domain | Tools |
+|---|---|
+| SIEM & detection | Wazuh, Graylog, Splunk (SPL), Zeek |
+| AD attack & defense | BloodHound, Impacket, Rubeus, PowerView, Windows Event ID analysis |
+| DFIR | Wireshark/PCAP, disk image triage, log forensics |
+| Infrastructure | Proxmox, Palo Alto (VLAN/DMZ segmentation), Docker, Linux |
+| Scripting | Python, PowerShell, Bash |
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/laykyaw-tun/) · [Email](mailto:laytun2k1@gmail.com)
