@@ -1,4 +1,4 @@
-# Sleep — Purple Teaming / Detection Engineering
+# Sleep - Purple Teaming / Detection Engineering
 
 **Information Management & Technology** (B.S. '29, Information Security and Cloud Computing concentration)
 CTF player with **v1olet**
