@@ -19,4 +19,4 @@ CTF player with **v1olet**
 
 ### Contact
 
-[Gmail](mailto:laytun2k1@gmail.com) - [LinkedIn](LinkedIn)](https://linkedin.com/in/laykyaw-tun/) 
+[Gmail](mailto:laytun2k1@gmail.com) -[LinkedIn](https://linkedin.com/in/laykyaw-tun/) 
