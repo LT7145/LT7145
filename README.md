@@ -2,7 +2,7 @@
 
 # Sleep
 
-**Purple Teaming **
+**Purple Teaming**
 
 B.S. Information Management & Technology '29 · Information Security & Cloud Computing
 
