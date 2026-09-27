@@ -22,8 +22,6 @@ CTF player with [**v1olet**](https://v1olet.xyz/)
 | **Infrastructure** | ![Proxmox](https://img.shields.io/badge/Proxmox-0D1117?style=flat-square&logo=proxmox&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo%20Alto-0D1117?style=flat-square&logo=paloaltonetworks&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=white) |
 | **Scripting** | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=white) |
 
-<sub>Palo Alto: VLAN/DMZ segmentation</sub>
-
 ### Contact
 
 [![Email](https://img.shields.io/badge/laytun2k1%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:laytun2k1@gmail.com)
