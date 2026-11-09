@@ -6,7 +6,7 @@
 
 B.S. Information Management & Technology '29 · Information Security & Cloud Computing
 
-CTF player with [**v1olet**](https://v1olet.xyz/)
+Information Security Analyst 
 
 </div>
 
